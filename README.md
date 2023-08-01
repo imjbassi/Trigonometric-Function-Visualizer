@@ -5,10 +5,10 @@ Formatted using https://codebeautify.org/cpp-formatter-beautifier
 
 ## How to Use
 
-1. Compile the `main.cpp` file using a C++ compiler (e.g., g++, Visual C++, etc.).
-2. Run the compiled executable.
-3. The program will prompt you to enter the trigonometric function you want to visualize. Type the corresponding letter ('s', 'c', 't', 'C', 'S', or 'T') and press Enter.
-4. The program will display the selected trigonometric function in ASCII art form with X and Y axes. To quit, enter 'q' or 'Q'.
+1. Compile `main.cpp` 
+2. Run compiled executable
+3. You'll be prompted to enter the trigonometric function you want to visualize. Type the corresponding letter ('s', 'c', 't', 'C', 'S', or 'T') and press Enter. To quit, enter 'q' or 'Q'.
+4. Program displays the selected trigonometric function in ASCII  with X and Y axes.
 
 ## Dependencies
 
