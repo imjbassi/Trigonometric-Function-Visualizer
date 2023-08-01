@@ -1,6 +1,7 @@
 # Trigonometric Function Visualizer
 
 This is a C++ command-line program that allows users to visualize various trigonometric functions using an ASCII art representation. The program prompts the user to select a trigonometric function (sine, cosine, tangent, cosecant, secant, or cotangent) and displays a 3D representation of the selected function along with X and Y axes in the command prompt.
+Formatted using https://codebeautify.org/cpp-formatter-beautifier
 
 ## How to Use
 
@@ -16,5 +17,3 @@ This program does not require any external dependencies beyond the standard C++ 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Feel free to contribute or suggest improvements to the project. Happy visualizing!
