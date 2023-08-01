@@ -7,8 +7,8 @@ Formatted using https://codebeautify.org/cpp-formatter-beautifier
 
 Below is an image of the Trigonometric Function Visualizer:
 
-![Trigonometric Function Visualizer Image]([https://example.com/trigonometric_visualizer_image.png](![image](https://github.com/imjbassi/Trigonometric-Function-Visualizer/assets/41026221/d3ffa3e1-9a32-4cb7-8243-ec91cac582be)
-))
+![Trigonometric Function Visualizer Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Trigonometrija-graf.svg/1920px-Trigonometrija-graf.svg.png)
+
 
 ## How to Use
 
